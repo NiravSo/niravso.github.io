@@ -1,21 +1,20 @@
 -----------------------
 # README
------------------------
-Anil Kumar is a one page bootstrap 3 based resume/portfolio.
+
 
 
 Page Info:
 -----------------------
-Name: 		Anil Kumar
+Name: 		Nirav Soni
 Version: 	1.0
-Author: 	anil pandiya
+Author: 	nirav soni
 Website: 	https://www.niravinfo.github.io
 
 
 Changelog:
 -----------------------
 Version 1.0 26-09-2018
-- initial release 
+- initial release
 
 
 Credits:
